@@ -13,7 +13,7 @@ class ArticleViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        // Do any additional setup after loading the view.
+        self.navigationItem.title = "1111"
     }
 
     override func didReceiveMemoryWarning() {

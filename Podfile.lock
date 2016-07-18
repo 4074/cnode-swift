@@ -1,0 +1,57 @@
+PODS:
+  - Alamofire (3.4.1)
+  - Bugrpt (1.1.4.2)
+  - DGElasticPullToRefresh (1.0.3)
+  - ExtensionKit (0.1.1)
+  - HanekeSwift (0.10.1)
+  - PromiseKit/CorePromise (3.2.1)
+  - PromiseKit/UIKit (3.2.1):
+    - PromiseKit/CorePromise
+  - SnapKit (0.21.1)
+  - STRegex (0.3.1)
+  - SwiftDate (3.0.8)
+  - SwiftyJSON (2.3.2)
+  - TextFieldEffects (1.2.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Bugrpt
+  - DGElasticPullToRefresh (from `https://github.com/4074/DGElasticPullToRefresh`)
+  - ExtensionKit (from `https://github.com/4074/ExtensionKit`)
+  - HanekeSwift
+  - PromiseKit/CorePromise
+  - PromiseKit/UIKit
+  - SnapKit
+  - STRegex
+  - SwiftDate
+  - SwiftyJSON
+  - TextFieldEffects
+
+EXTERNAL SOURCES:
+  DGElasticPullToRefresh:
+    :git: https://github.com/4074/DGElasticPullToRefresh
+  ExtensionKit:
+    :git: https://github.com/4074/ExtensionKit
+
+CHECKOUT OPTIONS:
+  DGElasticPullToRefresh:
+    :commit: 01447369d7978af74d2023518b2a6d3db31a155f
+    :git: https://github.com/4074/DGElasticPullToRefresh
+  ExtensionKit:
+    :commit: 02f424da8713d619cc7df1df4750a6f0ee02b494
+    :git: https://github.com/4074/ExtensionKit
+
+SPEC CHECKSUMS:
+  Alamofire: 01a82e2f6c0f860ade35534c8dd88be61bdef40c
+  Bugrpt: 223dc086314dc0389d45711a81b7d31d4c7e7128
+  DGElasticPullToRefresh: 3129c558cd59d68f9c2472d79abcd68a49bcd345
+  ExtensionKit: b5b1d5e56e12888e3c12e4016729be0137a599ac
+  HanekeSwift: 08e47d3d0f2899ec58e5d257beba0de619aca9e8
+  PromiseKit: ef54f61501541bf18a87b25115c372184d180cea
+  SnapKit: bbad04cb016c7cead63965f16b00c09318d271ee
+  STRegex: 4c27ffabad2c8b603f050d28e6c794eb72a13608
+  SwiftDate: 971f8b9394f664f2226b9c3ab64e801a7291c612
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+  TextFieldEffects: bc4fd3bd557321bd61a0762f3f50965477a36f62
+
+COCOAPODS: 0.39.0
